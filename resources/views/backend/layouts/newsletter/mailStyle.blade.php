@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <div>
+        <p>{{$content}}</p>
+    </div>
+</body>
+</html>

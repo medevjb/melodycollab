@@ -1,0 +1,19 @@
+/* custom-content.css */
+body {
+    background-color: black !important;  /* Editor background */
+    color: #333 !important;                /* Text color */
+    font-family: Arial, sans-serif !important; /* Custom font */
+}
+
+p {
+    line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #007bff;  /* Custom heading color */
+}
+
+a {
+    color: #007bff;  /* Custom link color */
+    text-decoration: underline;
+}
